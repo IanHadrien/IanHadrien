@@ -1,7 +1,7 @@
 ### Olá! Sou Ian Hadrien 👋
 
-- 🔭 Atualmente estou cursando Sistemas de Informação
-- 🌱 Estudando JavaScript, React, Node.js
+- 🔭 Front End Developer.
+- 🌱 JavaScript, React, Node.js
 
 <div align="center">
   <a href="https://github.com/IanHadrien">
